@@ -8,7 +8,7 @@
 
 ### Find me elsewhere 
 
-- 📫 Reach me: [Email](panshenlian@gmail.com) 
+- 📫 Reach me: [panshenlian@gmail.com](panshenlian@gmail.com) 
 - 🌎 Subscribe me ：[www.panshenlian.com](https://www.panshenlian.com)
  
 

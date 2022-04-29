@@ -13,9 +13,12 @@
  
 
 <a href="https://github.com/senlypan">
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=senlypan&theme=cobalt&show_icons=true">
+<img align="left" width="67%" src="https://github-readme-stats.vercel.app/api?username=senlypan&theme=cobalt&show_icons=true">
+</a> 
+ 
+<a href="https://github.com/senlypan">
+<img align="right" width="29%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=senlypan&hide_border=true">
 </a>
-
 
 
 <!--
